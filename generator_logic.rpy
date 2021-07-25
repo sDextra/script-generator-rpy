@@ -163,3 +163,5 @@ screen gs_sure(file=None):
         textbutton _("Cancel") action Hide('gs_sure') align (.7,.9)
     key 'K_ESCAPE' action Hide('gs_sure')
 #############################################################################
+# by sDextra
+#############################################################################

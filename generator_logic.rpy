@@ -45,6 +45,8 @@ init python:
                 line = line.replace(enter, '')
             if suffix in line:
                 line = line.replace(suffix, '')
+            if line == '':
+                continue
 
             if gs_tag_label.encode(utf8) in line:
                 label = line.strip().split(': ')[1]

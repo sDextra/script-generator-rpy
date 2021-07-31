@@ -1,5 +1,5 @@
 # script-generator-rpy
-Script Generator for Ren'Py (.txt to .rpy)
+Script Generator for Ren'Py (.txt to .rpy) v.1.0
 
 # Installation
 ## English
